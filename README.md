@@ -1,4 +1,4 @@
-# Kai Bermudez Data 150
+# Kai Bermudez Data 150 Responses
 
 [Blumenstock Response](blumenstock.md)
 
