@@ -1,4 +1,4 @@
-   # Machine Learning (Data Science Insight)
+   # Machine Learning- Data Science Insight
    
   
    The lack of available doctors and other medical staff is certainly an issue in impoverished areas of the world. However, the data science method named 
