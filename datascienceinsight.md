@@ -1,3 +1,6 @@
+   # Machine Learning (Data Science Insight)
+   
+  
    The lack of available doctors and other medical staff is certainly an issue in impoverished areas of the world. However, the data science method named 
 machine learning may be there to help this situation. Machine learning utilizes data from previous patients to help predict what ailment patients currently have, 
 and how to treat it. With the advancement of the collection of data, (as machine learning has been around since the 1950s), this strategy of having essentially 
