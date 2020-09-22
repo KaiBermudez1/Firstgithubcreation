@@ -8,3 +8,4 @@
 
 [Data Science Insight](datascienceinsight.md)
 
+[Assignment 1](assignmentone.md)
