@@ -10,10 +10,11 @@ Professor Frazier
 
   Amaryta Sen defines human development as “the enhancement of freedoms that allow people to lead lives that they have reason to live...” “...development requires the removal of major sources of unfreedom: poverty as well as tyranny, poor economic opportunities as well as systemic social deprivation, neglect of public facilities as well as intolerance or overactivity of repressive states.” He believes that in order for a society to flourish, the removal of unfreedoms must occur. I believe the primary start to progressing a society is having safe access to water and food. Therefore, I decided to examine Ethiopia, a country with a serious problem of access to clean water. 
 
+
 1)
 Dr Samuel Godfrey, & Godfrey. (2018, January 01). Using GIS and Remote Sensing to Access Water in the Drought. Retrieved September 19, 2020 from https://www.unicef.org/ethiopia/reports/using-gis-and-remote-sensing-access-water-drought
 
-   In this article by UNICEF, a humanitarian aid and development agency in the United Nations, it examines the results of using various data science techniques to increase the success rates of water drilling sites in Ethiopia and Madagascar. Both of these countries have serious problems with clean water, and their situations are only being made worse from climate change. However, for this annotated bibliography, the focus will be on Ethiopia. 
+    In this article by UNICEF, a humanitarian aid and development agency in the United Nations, it examines the results of using various data science techniques to increase the success rates of water drilling sites in Ethiopia and Madagascar. Both of these countries have serious problems with clean water, and their situations are only being made worse from climate change. However, for this annotated bibliography, the focus will be on Ethiopia. 
    
    UNICEF is using remote sensing to scan Ethoipian land and find sites which are listed as high potential sites for the extraction of water. UNICEF is also able to combine their remote sensing findings with their hydrogeological, meteorological, and geophysical data to create maps illustrating their findings. These maps are used to identify the most potentially successful drilling sites in order to conserve costs and time, and provide water to hundreds of thousands of people.
    
