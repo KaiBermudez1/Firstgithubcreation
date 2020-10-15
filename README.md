@@ -9,3 +9,5 @@
 [Data Science Insight](datascienceinsight.md)
 
 [Assignment 1](assignmentone.md)
+
+[Owen Barder Questions](owenbarderquestions.md)
