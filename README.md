@@ -11,3 +11,5 @@
 [Assignment 1](assignmentone.md)
 
 [Owen Barder Questions](owenbarderquestions.md)
+
+[Data Insight #2](datascienceinsighttwo.md)
