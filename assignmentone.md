@@ -5,7 +5,7 @@ Professor Frazier
 9/19/2020
 
 
-  Amaryta Sen defines human development as “the enhancement of freedoms that allow people to lead lives that they have reason to live...” “...development requires the removal of major sources of unfreedom: poverty as well as tyranny, poor economic opportunities as well as systemic social deprivation, neglect of public facilities as well as intolerance or overactivity of repressive states.” He believes that in order for a society to flourish, the removal of unfreedoms must occur. I believe the primary start to progressing a society is having safe access to water and food. Therefore, I decided to examine Ethiopia, a country with a serious problem of access to clean water. 
+  Amartya Sen defines human development as “the enhancement of freedoms that allow people to lead lives that they have reason to live...” “...development requires the removal of major sources of unfreedom: poverty as well as tyranny, poor economic opportunities as well as systemic social deprivation, neglect of public facilities as well as intolerance or overactivity of repressive states.” He believes that in order for a society to flourish, the removal of unfreedoms must occur. I believe the primary start to progressing a society is having safe access to water and food. Therefore, I decided to examine Ethiopia, a country with a serious problem of access to clean water. 
 
 
 1)
