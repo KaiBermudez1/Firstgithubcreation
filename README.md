@@ -14,6 +14,6 @@
 
 [Data Insight #2](datascienceinsighttwo.md)
 
-
-
 [In Class Research Quetsion Categorization and Sub Questions](researchquestionsinclass.md)
+
+[Anderson Kitchin Response](andersonkitchinresponse.md)
