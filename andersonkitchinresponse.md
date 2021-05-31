@@ -1,9 +1,9 @@
-The End Of Theory (Anderson):
+# The End Of Theory (Anderson):
 
 In the article written by Chris Anderson, he explains the importance of using Big Data to find correlations between different aspects of life. He says that the scientific method is obsolete and that we do not need to care about the reasons why things happen, instead saying that “Correlation is enough.” His argument is compelling because of the effectiveness of using these petabytes of data to “let statistical algorithms find patterns where (traditional) science cannot.” Using these broad amounts of data, we can advance areas of science at a much faster rate, as J. Craig Venter has tremendously advanced the field of biology. I agree with Anderson’s ideas of how we can be much more efficient with our time, using this methodology to fix issues that would previously be too difficult to maneuver. However, I think he is too eager to abandon the idea of searching for why things happen. Even if we have a correlation between two variables, people still need to understand why things happen, in order to solve problems more effectively. 
 
 
-Big Data Epistemologies and Paradigm Shifts (Kitchin):
+# Big Data Epistemologies and Paradigm Shifts (Kitchin):
 
 The beginning of Rob Kitchin’s research article highlights the extensiveness of Big Data and how as of recently, machine learning can “computationally and automatically mine and detect patterns and build predictive models and optimize outcomes.” This ability for massive amounts of data to reveal truths about our world without testing a theory is leading people to consider this a new paradigm of science. Kitchin cites Jim Gray in the article as saying that this new paradigm is an extension of the scientific method, while others believe this new paradigm of research no longer requires a theory to reveal truths and therefore is not connected to the scientific method. This new way of researching is undoubtedly effective, as shown with the example of the retail store (on page 4 of the article) increasing their revenue by 16% in the first month by using machine learning on 12 years worth of transaction data. 
 
