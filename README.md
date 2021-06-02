@@ -19,3 +19,9 @@
 [Anderson Kitchin Response](andersonkitchinresponse.md)
 
 [Assignment 2](assignmenttwo.md)
+
+[Assignmnet 3](assignmentthree.md)
+
+[Data Science Knowledge Creation](datascienceknowledgecreation.md)
+
+[Final Presentation](finalpresentation.md)
