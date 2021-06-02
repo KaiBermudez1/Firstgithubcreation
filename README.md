@@ -20,7 +20,7 @@
 
 [Assignment 2](assignmenttwo.md)
 
-[Assignmnet 3](assignmentthree.md)
+[Assignment 3](assignmentthree.md)
 
 [Data Science Knowledge Creation](datascienceknowledgecreation.md)
 
