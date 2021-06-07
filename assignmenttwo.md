@@ -1,1 +1,2 @@
-[Assignment 2 Kai Bermudez](https://github.com/KaiBermudez1/datasciencekaibermudez/files/6582415/Assignment.2.Kai.Bermudez.pdf)
+[Assignment 2 Kai Bermudez.pdf](https://github.com/KaiBermudez1/datasciencekaibermudez/files/6610866/Assignment.2.Kai.Bermudez.pdf)
+
