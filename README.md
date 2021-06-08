@@ -24,7 +24,7 @@
 
 [Data Science Knowledge Creation](datascienceknowledgecreation.md)
 
-[Abstract](abstract.md)
+[Final Abstract](abstract.md)
 
 [Final Presentation Slides](finalpresentationslides.md)
 
