@@ -26,4 +26,6 @@
 
 [Abstract](abstract.md)
 
-[Final Presentation](finalpresentation.md)
+[Final Presentation Slides](finalpresentationslides.md)
+
+[Final Recorded Presentation](finalpresentationrecording.md)
